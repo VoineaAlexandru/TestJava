@@ -2,7 +2,7 @@
 Working with XMl files
 
 Aceasta aplicatie are ca scop preluarea de comenzi si transmiterea acestora mai departe catre furnizori.
-Pentru dezvoltarea si testarea acestei aplicatii s-au folosit doua fisiere XML,unul este o copie a exemplului primit in documentatia pentru acest test, iar celalalt este o copie usor modeificata a acestuia.
+Pentru dezvoltarea si testarea acestei aplicatii s-au folosit doua fisiere XML,unul este o copie a exemplului primit in documentatia pentru acest test, iar celalalt este o copie usor modificata a acestuia.
 Mod de functionare:
 Pasul1: 
 In momentul in care se apasa butonul “Run” aplicatia cauta in folderul sursa daca exista fisiere de tipul XML, dupa care fisierele XML gasite sunt salvate intr-o lista
